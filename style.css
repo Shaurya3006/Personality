@@ -1,0 +1,58 @@
+body{
+	background:linear-gradient(to right, tomato, white);
+	font-family: 'Luckiest Guy', cursive;
+	text-align: center;
+}
+h1
+{
+	font-size: 40px;
+	color: blue;
+	text-transform: capitalize;
+}
+.entire
+{
+	border: 2px solid green;
+	margin-right: 300px;
+	margin-left: 300px;
+	border-radius: 30px;
+	font-size: 35px;
+	background: url(pattern.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.center-div{
+	color: forestgreen;
+	text-transform: capitalize;
+}
+input
+{
+	height: 30px;
+	width: 300px;
+	background-color: pink;
+	text-transform: capitalize;
+	color: blue;
+	font-size: 20px;
+	border: 2px solid blue;
+	text-align: center;
+}
+.click{
+	height: 50px;
+	width: 200px;
+	border-radius: 50%;
+	background:linear-gradient(to right, blue, yellow);
+	outline: none;
+	font-family: 'Luckiest Guy', cursive;
+	border: 2px solid black;
+	font-size: 25px;
+}
+.reset{
+	height: 50px;
+	width: 200px;
+	border-radius: 50%;
+	background:linear-gradient(to right, green, yellow);
+	outline: none;
+	font-family: 'Luckiest Guy', cursive;
+	border: 2px solid black;
+	font-size: 25px;
+}
